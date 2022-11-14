@@ -1,1 +1,3 @@
 Andreanov Ridhovan
+Bekasi
+Software Quality Assurance
